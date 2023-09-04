@@ -1,10 +1,3 @@
-<div align=center> 
-
-### I'm Rafael Barbato
-<br>
-</div>
-<div align=center> 
-  
 ### 💻 _GitHub_
 </div>
 <div align="center" display="inline block">
