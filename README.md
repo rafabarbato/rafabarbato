@@ -1,6 +1,6 @@
 <div align=center> 
 
-### 👋 Hi, I'm Rafael Barbato
+### I'm Rafael Barbato
 <br>
 </div>
 <div align=center> 
