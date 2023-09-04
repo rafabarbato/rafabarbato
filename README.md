@@ -5,15 +5,6 @@
 </div>
 <div align=center> 
   
-  ### 🛠 _Skills_
-</div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,mysql,react,next,tailwind,git" />
-  </a>
-</p><br>
-<div align=center> 
-  
 ### 💻 _GitHub_
 </div>
 <div align="center" display="inline block">
