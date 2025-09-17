@@ -3,8 +3,8 @@
 ### 💻 _GitHub_
 </div>
 <div align="center" display="inline block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafabarbato&show_icons=true&icon_color=0fb81d&theme=dark#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabarbato&layout=compact&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://readme-stats-mu-blond.vercel.app/api?username=rafabarbato&show_icons=true&icon_color=0fb81d&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://readme-stats-mu-blond.vercel.app/api/top-langs/?username=rafabarbato&layout=compact&theme=dark#gh-dark-mode-only"/>
 </div> <br>
 
 <div align="center">
